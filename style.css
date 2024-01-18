@@ -68,6 +68,10 @@ body::before {
     margin: 16px 0 16px 0;
 }
 
+.container__texto h1{
+    font-size: 3rem;
+}
+
 .container__texto-azul {
     color: #1875E8;
 }
