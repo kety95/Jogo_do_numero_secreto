@@ -1,4 +1,4 @@
-# Olá, bem vindo ao meu projeto de portifólio.
+# Descubra o número secreto
 
 [Encontre o projeto publicado aqui](https://jogo-mauve-mu.vercel.app/)
 
